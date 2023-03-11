@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on an employee directory 
-- 🌱 I’m currently learning Vue js 
 - 👯 I’m looking to collaborate on open source projects 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about frontend development 
