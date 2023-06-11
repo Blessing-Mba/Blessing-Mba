@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on open source projects 
+- 👯 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about frontend development 
 - 📫 How to reach me: blessingmba3@gmail.com
